@@ -1,0 +1,3 @@
+sqlite3 mbta.db
+
+.read schema.sql
